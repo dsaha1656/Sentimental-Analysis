@@ -1,0 +1,189 @@
+[08-Mar-2018 06:40:49 UTC] PHP Warning:  include(conf.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 2
+[08-Mar-2018 06:40:49 UTC] PHP Warning:  include(conf.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 2
+[08-Mar-2018 06:40:49 UTC] PHP Warning:  include(): Failed opening 'conf.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 2
+[08-Mar-2018 06:40:49 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 3
+[08-Mar-2018 06:40:49 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 3
+[08-Mar-2018 06:40:49 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 3
+[08-Mar-2018 06:40:49 UTC] PHP Fatal error:  Call to undefined function login() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 4
+[09-Mar-2018 21:17:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php:1) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/conf.php on line 3
+[09-Mar-2018 21:18:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php:1) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/conf.php on line 3
+[09-Mar-2018 21:18:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php:1) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/conf.php on line 3
+[09-Mar-2018 21:18:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php:1) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/conf.php on line 3
+[09-Mar-2018 21:18:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php:1) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/conf.php on line 3
+[09-Mar-2018 21:19:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php:1) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/conf.php on line 3
+[10-Mar-2018 02:49:03 Asia/kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php:1) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 5
+[12-Mar-2018 05:29:43 Asia/kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:30:11 Asia/kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:31:07 Asia/kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:31:31 Asia/kolkata] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:32:09 Asia/kolkata] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:34:36 Asia/kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:34:36 Asia/kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 44
+[12-Mar-2018 05:35:22 Asia/kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:35:22 Asia/kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 44
+[12-Mar-2018 05:35:58 Asia/kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:38:21 Asia/kolkata] PHP Warning:  mysqli_fetch_field() expects parameter 1 to be mysqli_result, array given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 00:11:13 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:42:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 05:43:28 Asia/kolkata] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 38
+[12-Mar-2018 05:43:56 Asia/kolkata] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 13:54:58 Asia/kolkata] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 39
+[12-Mar-2018 09:53:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 134
+[12-Mar-2018 09:55:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 134
+[12-Mar-2018 09:56:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 134
+[12-Mar-2018 09:57:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 134
+[12-Mar-2018 09:58:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 134
+[12-Mar-2018 12:20:50 UTC] PHP Parse error:  syntax error, unexpected ''">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 178
+[12-Mar-2018 12:21:10 UTC] PHP Parse error:  syntax error, unexpected ''">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 178
+[12-Mar-2018 12:22:42 UTC] PHP Parse error:  syntax error, unexpected ''">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 178
+[12-Mar-2018 12:25:45 UTC] PHP Parse error:  syntax error, unexpected ''">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 178
+[12-Mar-2018 12:31:15 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 146
+[12-Mar-2018 12:31:16 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 146
+[12-Mar-2018 12:31:32 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 146
+[12-Mar-2018 19:14:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 11
+[12-Mar-2018 19:15:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 11
+[19-Mar-2018 13:13:37 UTC] PHP Fatal error:  Cannot use [] for reading in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 211
+[19-Mar-2018 13:29:44 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 188
+[19-Mar-2018 20:50:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/three.php on line 221
+[19-Mar-2018 20:50:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/three.php on line 221
+[19-Mar-2018 20:54:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/three.php on line 221
+[20-Mar-2018 07:45:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/three.php on line 221
+[20-Mar-2018 17:27:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/three.php on line 221
+[20-Mar-2018 17:28:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/three.php on line 221
+[20-Mar-2018 17:33:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/three.php on line 219
+[20-Mar-2018 19:45:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 221
+[20-Mar-2018 19:45:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 221
+[20-Mar-2018 21:08:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/six.php on line 242
+[21-Mar-2018 15:37:23 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 61
+[21-Mar-2018 15:37:58 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 61
+[21-Mar-2018 15:38:24 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 61
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 2 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 38 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 3 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 38 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Division by zero in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 25
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 2 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 39 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 3 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 39 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Division by zero in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 25
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 2 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 40 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 3 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 40 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Division by zero in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 25
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 2 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 41 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 3 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 41 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Division by zero in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 25
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 2 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 42 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Missing argument 3 for percentage(), called in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 42 and defined in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 24
+[22-Mar-2018 14:34:47 Asia/kolkata] PHP Warning:  Division by zero in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 25
+[22-Mar-2018 14:51:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 31
+[22-Mar-2018 14:51:42 Asia/kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php:31) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 71
+[24-Mar-2018 21:08:35 UTC] PHP Parse error:  syntax error, unexpected 'typeof' (T_STRING), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 324
+[25-Mar-2018 02:39:37 Asia/kolkata] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 202
+[24-Mar-2018 22:02:23 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 77
+[24-Mar-2018 22:02:27 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 77
+[25-Mar-2018 03:33:37 Asia/kolkata] PHP Fatal error:  Call to undefined function genarateTasks() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 76
+[25-Mar-2018 03:34:20 Asia/kolkata] PHP Fatal error:  Call to undefined function personality() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/two.php on line 76
+[25-Mar-2018 04:03:05 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 257
+[25-Mar-2018 04:03:05 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 259
+[25-Mar-2018 21:47:20 Asia/kolkata] PHP Fatal error:  Call to undefined function SM() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 29
+[25-Mar-2018 21:50:56 Asia/kolkata] PHP Fatal error:  Call to undefined function SM() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 29
+[25-Mar-2018 21:50:59 Asia/kolkata] PHP Fatal error:  Call to undefined function SM() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 29
+[25-Mar-2018 21:52:15 Asia/kolkata] PHP Fatal error:  Call to undefined function PM() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 29
+[25-Mar-2018 21:52:42 Asia/kolkata] PHP Fatal error:  Call to undefined function pr() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 29
+[25-Mar-2018 21:53:40 Asia/kolkata] PHP Fatal error:  Call to undefined function pr() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 29
+[25-Mar-2018 22:45:39 Asia/kolkata] PHP Fatal error:  Call to undefined function PRE() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/five.php on line 29
+[25-Mar-2018 22:57:31 Asia/kolkata] PHP Fatal error:  Call to undefined function SM() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/four.php on line 54
+[25-Mar-2018 18:03:59 UTC] PHP Parse error:  syntax error, unexpected 'DEQ' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/six.php on line 42
+[25-Mar-2018 18:04:42 UTC] PHP Parse error:  syntax error, unexpected 'DE' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/six.php on line 42
+[25-Mar-2018 18:05:00 UTC] PHP Parse error:  syntax error, unexpected 'DEM' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/six.php on line 42
+[26-Mar-2018 01:07:52 Asia/kolkata] PHP Warning:  include(sentiment.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 56
+[26-Mar-2018 01:07:52 Asia/kolkata] PHP Warning:  include(sentiment.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 56
+[26-Mar-2018 01:07:52 Asia/kolkata] PHP Warning:  include(): Failed opening 'sentiment.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 56
+[26-Mar-2018 01:07:52 Asia/kolkata] PHP Fatal error:  Class 'PHPInsight\Sentiment' not found in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 57
+[26-Mar-2018 01:11:12 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 58
+[26-Mar-2018 01:13:16 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 58
+[25-Mar-2018 19:58:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 247
+[25-Mar-2018 20:12:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 9
+[25-Mar-2018 20:20:15 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 98
+[26-Mar-2018 01:52:04 Asia/kolkata] PHP Warning:  strpos() expects parameter 1 to be string, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Sentiment.php on line 138
+[26-Mar-2018 01:52:04 Asia/kolkata] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Sentiment.php on line 140
+[26-Mar-2018 01:54:09 Asia/kolkata] PHP Warning:  strpos() expects parameter 1 to be string, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Sentiment.php on line 138
+[26-Mar-2018 01:54:09 Asia/kolkata] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Sentiment.php on line 140
+[26-Mar-2018 01:55:29 Asia/kolkata] PHP Warning:  strpos() expects parameter 1 to be string, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Sentiment.php on line 138
+[26-Mar-2018 01:55:29 Asia/kolkata] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Sentiment.php on line 140
+[25-Mar-2018 21:06:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 77
+[25-Mar-2018 21:06:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 77
+[25-Mar-2018 21:12:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 79
+[25-Mar-2018 21:13:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 82
+[26-Mar-2018 03:16:49 Asia/kolkata] PHP Fatal error:  Cannot redeclare class PHPInsight\Autoloader in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Autoloader.php on line 6
+[26-Mar-2018 03:18:29 Asia/kolkata] PHP Fatal error:  Cannot redeclare class PHPInsight\Autoloader in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Autoloader.php on line 6
+[26-Mar-2018 03:18:50 Asia/kolkata] PHP Fatal error:  Cannot redeclare class PHPInsight\Autoloader in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/lib/PHPInsight/Autoloader.php on line 6
+[26-Mar-2018 03:43:03 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 323
+[26-Mar-2018 03:48:02 Asia/kolkata] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/functions.php on line 41
+[26-Mar-2018 03:52:12 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 323
+[26-Mar-2018 04:07:31 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 326
+[26-Mar-2018 04:16:26 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 324
+[25-Mar-2018 22:55:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 62
+[26-Mar-2018 04:25:59 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 325
+[26-Mar-2018 04:27:13 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 325
+[26-Mar-2018 04:33:09 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 301
+[26-Mar-2018 04:33:09 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 330
+[26-Mar-2018 04:34:50 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:34:50 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:38:03 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:38:03 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:38:03 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 353
+[26-Mar-2018 04:38:57 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:38:57 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:38:57 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 353
+[26-Mar-2018 04:39:29 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:39:29 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:39:29 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 353
+[26-Mar-2018 04:41:17 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:41:17 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:41:17 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 353
+[26-Mar-2018 04:42:15 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:42:15 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:42:15 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 355
+[26-Mar-2018 04:43:55 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:43:55 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:43:55 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 355
+[25-Mar-2018 23:14:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 355
+[26-Mar-2018 04:45:11 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:45:11 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:45:11 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 355
+[26-Mar-2018 04:46:19 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:46:19 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:47:13 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:47:13 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:47:13 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 356
+[26-Mar-2018 04:47:46 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 304
+[26-Mar-2018 04:47:46 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 333
+[26-Mar-2018 04:47:46 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 356
+[26-Mar-2018 04:48:32 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:48:32 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 334
+[26-Mar-2018 04:48:32 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 357
+[26-Mar-2018 04:49:48 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:49:48 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 314
+[26-Mar-2018 04:49:48 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 343
+[26-Mar-2018 04:49:48 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 365
+[26-Mar-2018 04:49:52 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:49:52 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 314
+[26-Mar-2018 04:49:52 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 343
+[26-Mar-2018 04:49:52 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 365
+[26-Mar-2018 04:50:59 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:50:59 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 314
+[26-Mar-2018 04:51:00 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:51:00 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 314
+[26-Mar-2018 04:51:00 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 343
+[26-Mar-2018 04:51:00 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 365
+[25-Mar-2018 23:24:04 UTC] PHP Parse error:  syntax error, unexpected ''"><i class="material-icons">s' (T_ENCAPSED_AND_WHITESPACE) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 322
+[26-Mar-2018 04:55:48 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:55:48 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 316
+[26-Mar-2018 04:55:48 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 346
+[26-Mar-2018 04:56:32 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:56:32 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 316
+[26-Mar-2018 04:56:32 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 346
+[26-Mar-2018 04:59:16 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 305
+[26-Mar-2018 04:59:16 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 316
+[26-Mar-2018 04:59:16 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 346
+[26-Mar-2018 04:59:16 Asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/one.php on line 368
+[29-Mar-2018 13:11:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/m.php:18) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/conf.php on line 3
+[29-Mar-2018 15:58:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/m.php:17) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/Rounds/conf.php on line 3

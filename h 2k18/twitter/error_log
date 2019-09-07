@@ -1,0 +1,41 @@
+[23-Mar-2018 06:57:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php:14) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 15
+[23-Mar-2018 06:58:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php:14) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 15
+[23-Mar-2018 07:41:07 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 21
+[23-Mar-2018 07:41:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 21
+[23-Mar-2018 07:42:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 21
+[23-Mar-2018 14:31:14 UTC] PHP Warning:  require_once(/home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter./sentiment.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/demo.php on line 19
+[23-Mar-2018 14:31:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter./sentiment.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/demo.php on line 19
+[23-Mar-2018 14:31:50 UTC] PHP Warning:  require_once(/home/nayamasa/public_html/SleepingFire/mindscript.tk/twittersentiment.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/demo.php on line 19
+[23-Mar-2018 14:31:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/nayamasa/public_html/SleepingFire/mindscript.tk/twittersentiment.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/demo.php on line 19
+[23-Mar-2018 14:32:04 UTC] PHP Warning:  require(/home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/lib/PHPInsight/Autoloader.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/sentiment.php on line 10
+[23-Mar-2018 14:32:04 UTC] PHP Warning:  require(/home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/lib/PHPInsight/Autoloader.php): failed to open stream: No such file or directory in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/sentiment.php on line 10
+[23-Mar-2018 14:32:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/lib/PHPInsight/Autoloader.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/sentiment.php on line 10
+[23-Mar-2018 15:11:50 UTC] PHP Fatal error:  Class 'PHPInsight\Sentiment' not found in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 22
+[23-Mar-2018 15:12:07 UTC] PHP Fatal error:  Call to a member function score() on null in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 34
+[23-Mar-2018 15:15:32 UTC] PHP Warning:  strpos() expects parameter 1 to be string, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/vendor/risan/sentiment-analysis/src/Analyzer.php on line 148
+[23-Mar-2018 15:15:32 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/vendor/risan/sentiment-analysis/src/Analyzer.php on line 149
+[23-Mar-2018 15:15:35 UTC] PHP Warning:  strpos() expects parameter 1 to be string, object given in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/vendor/risan/sentiment-analysis/src/Analyzer.php on line 148
+[23-Mar-2018 15:15:35 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/vendor/risan/sentiment-analysis/src/Analyzer.php on line 149
+[25-Mar-2018 17:53:58 UTC] PHP Fatal error:  Uncaught exception 'Abraham\TwitterOAuth\TwitterOAuthException' with message '<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en-us">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter / ?</title>
+    <link href="https://abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link rel="stylesheet" href="https://abs.twimg.com/errors/fullscreen_errors-4e29aecc89be6d500979e19c3bd72aa2.css">
+  </head>
+  <body>
+    <div class="errorpage-topbar">
+      <div class="errorpage-global-nav">
+        <div class="errorpage-global-nav-inner">
+          <div class="errorpage-container">
+            <ul class="errorpage-nav">
+              <li>
+                <a href="https://twitter.com"><img class="errorpage-bird" srcset='https://abs.twimg in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/src/TwitterOAuth.php on line 168
+[25-Mar-2018 20:35:51 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 22
+[25-Mar-2018 20:36:42 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 22
+[25-Mar-2018 20:36:44 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 22
+[25-Mar-2018 20:38:26 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/twitter/index.php on line 22

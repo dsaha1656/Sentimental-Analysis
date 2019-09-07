@@ -1,0 +1,15 @@
+[30-Mar-2018 11:04:40 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/parent/geoplugin.class.php on line 121
+[30-Mar-2018 11:05:34 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/parent/geoplugin.class.php on line 121
+[30-Mar-2018 11:05:44 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/parent/geoplugin.class.php on line 121
+[30-Mar-2018 11:05:58 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/parent/geoplugin.class.php on line 121
+[30-Mar-2018 11:06:00 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/parent/geoplugin.class.php on line 121
+[30-Mar-2018 11:06:25 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/parent/geoplugin.class.php on line 121
+[30-Mar-2018 11:06:31 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/parent/geoplugin.class.php on line 121
+[30-Mar-2018 11:06:43 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/geoplugin.class.php on line 121
+[30-Mar-2018 11:06:46 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/geoplugin.class.php on line 121
+[30-Mar-2018 11:06:48 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/geoplugin.class.php on line 121
+[30-Mar-2018 11:08:18 UTC] PHP Notice:  geoPlugin class Notice: currencyConverter has no value. in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/geoplugin.class.php on line 121
+[30-Mar-2018 11:50:25 UTC] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/index.php on line 107
+[30-Mar-2018 11:53:45 UTC] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/index.php on line 107
+[30-Mar-2018 11:53:49 UTC] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/index.php on line 107
+[30-Mar-2018 11:54:09 UTC] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/nayamasa/public_html/SleepingFire/mindscript.tk/map/index.php on line 8
